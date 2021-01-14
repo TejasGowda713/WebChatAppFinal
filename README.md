@@ -1,4 +1,4 @@
-Live Demo : https://whatapp-ab6bd.web.app/
+Live Demo : https://chat-app-d7772.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
